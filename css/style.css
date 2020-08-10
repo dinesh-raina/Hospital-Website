@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+html, body{
+	height: 100%;
+	width: 100%;
+	font-family: 'Poppins',sans-serif;
+	color: #222;
+}
+/* logo */
+.logo{
+	height: 45px;
+}
+/* navbar */
+.nav-link{
+	font-size: 1.1em !important;
+}
+.carousel-inner{
+	height: 100%;
+	width: 100%;
+}
+.padding{
+	padding-bottom: 2rem;
+}
+/* Welcome */
+.welcome{
+	margin: 0 auto;
+	padding-top: 2rem;
+}
+/* Fav-icon */
+.fa-medkit{
+    color: #2163af;
+}
+.fa-ambulance{
+    color: #DC143C;
+}
+.fa-stethoscope{
+    color: #990099;
+}
+/* social-media */
+.social a{
+	font-size: 3.5em;
+	padding: 3rem;
+}
+.fa-facebook-official{
+	color: #3b5998;
+}
+.fa-twitter-square{
+	color: #00aced;
+}
+.fa-instagram{
+	color: #14704;
+} 
+.fa-youtube-play{
+	color: #FF0000;
+}
+.fa-facebook-official:hover,
+.fa-twitter-square:hover,
+.fa-youtube-play:hover,
+.fa-instagram:hover{
+    color: #d5d5d5;
+}
+/* Footer */
+footer{
+	 background-color: #3f3f3f;
+	 color: #d5d5d5;
+	 padding-top: 2rem;
+}
+.logo-f{
+	height: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+.row-flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
